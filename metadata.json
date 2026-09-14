@@ -1,0 +1,6 @@
+{
+  "name": "APAC Magazine Book Viewer",
+  "description": "Interactive 32-page corporate magazine flipbook reader and editorial review tool with page-flipping animations, search, zoom, and approval system for the All Pakistani American Coalition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
